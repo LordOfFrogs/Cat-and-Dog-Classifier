@@ -1,0 +1,1 @@
+78% accurate classifier of cat and dog images using Tensorflow and Keras. Made as a project for [freeCodeCamp's Machine Learning with Python curriculum](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier).
